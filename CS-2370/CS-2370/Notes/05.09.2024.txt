@@ -1,0 +1,17 @@
+05/09/2024
+Compiler vs interpreter
+Compiler
+Book ->translated ->translated book
+very rigid, but loads quickly.
+Interpreter
+person -> translator -> person
+very dynamic, but takes more processing poswer to use and stuff.
+#include-
+includes someone elses code from a library, which is a bunch of code people will use commonly.
+namespaces specify groups of objects (things with attributes)
+example- lets you use cout without typing std::cout
+#include <iostream>
+using namespace std;
+int main(){
+   
+}
